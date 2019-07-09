@@ -14,7 +14,7 @@ This project is about building a Star Notary Dapp that allows users to claim an 
 
 - ERC-721 Token Name: LanaKhan
 - ERC-721 Token Symbol: LKH
-- Token Address on the Rinkeby Network:
+- Token Address on the Rinkeby Network:0x5b9fd487Ac65e9013B3558eEE3ffe19c668B8db8
 
 ### Prerequisites
 
