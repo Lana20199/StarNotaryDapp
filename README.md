@@ -16,6 +16,14 @@ This project is about building a Star Notary Dapp that allows users to claim an 
 - ERC-721 Token Symbol: LKH
 - Token Address on the Rinkeby Network:
 
+### Prerequisites
+
+Truffle: v5.0.26
+OpenZeppelin: 2.1.2
+truffle-hdwallet-provider: 1.0.2
+Node: v10.15.2
+Web3.js v1.0.0-beta.37
+
 ### Testing
 
 For testing the code enter truffle develop
@@ -26,3 +34,15 @@ truffle develop
 ```
 test
 ```
+
+## Run Front end
+
+Open terminal shell in app directory 
+
+```
+npm run develop
+```
+Go to local host http://localhost:8080/
+
+## Metamask
+Make sure to install a Metamask extension with an account that have ether in order to own a star!
