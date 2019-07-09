@@ -1,6 +1,6 @@
 ## StarNotary Dapp
 
-This project is about building a Star Notary Dapp that allows users to claim ownership a unique star by a name and an Id
+This project is about building a Star Notary Dapp that allows users to claim an ownership of a unique star by providing its name and Id
 
 ## Tools used in the Project
 
