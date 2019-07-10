@@ -14,6 +14,8 @@ contract StarNotary is ERC721 {
     // Implement Task 1 Add a name and symbol properties
     // name: Is a short name to your token
     // symbol: Is a short string like 'USD' -> 'American Dollar'
+    
+    //Last reviewer told me I should add a token name and a symbol though it's added. what did he mean?
     string public constant token_name = "LanaKhan";
     string public constant token_symbol = "LKH";
 
