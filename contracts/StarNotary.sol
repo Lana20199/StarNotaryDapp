@@ -16,8 +16,8 @@ contract StarNotary is ERC721 {
     // symbol: Is a short string like 'USD' -> 'American Dollar'
     
     //Last reviewer told me I should add a token name and a symbol though it's added. what did he mean?
-    string public constant token_name = "LanaKhan";
-    string public constant token_symbol = "LKH";
+    string public constant name = "LanaKhan";
+    string public constant symbol = "LKH";
 
     // mapping the Star with the Owner Address
     mapping(uint256 => Star) public tokenIdToStarInfo;
